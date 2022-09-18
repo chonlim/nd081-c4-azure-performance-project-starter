@@ -28,7 +28,7 @@ stats = stats_module.stats
 view_manager = stats.view_manager
 
 # TODO: Add InstrumentationKey from Application Insights
-instru_key_insights = 'InstrumentationKey=ca688fc6-02ab-4018-b6bd-eb7ce3e79f75'
+instru_key_insights = 'InstrumentationKey=ef6e7cb3-8d79-408e-bedd-90ecab688aef'
 
 # Logging
 # TODO: Setup logger --> DONE
